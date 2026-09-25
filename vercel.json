@@ -3,9 +3,9 @@
   "builds": [
     {
       "src": "api/index.php",
-      "use": "vercel-php@0.7.4",
+      "use": "vercel-php@0.8.0",
       "config": {
-        "runtime": "php84"
+        "runtime": "php"
       }
     }
   ],
