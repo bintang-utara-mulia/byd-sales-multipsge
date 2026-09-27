@@ -6,11 +6,7 @@
             <!-- Gambar -->
             <div>
 
-                <img
-                    src="{{ asset('images/about/Showroom.webp') }}"
-                    alt="Showroom BYD"
-                    class="w-full max-w-2xl mx-auto lg:max-w-none rounded-2xl object-cover"
-                    style="aspect-ratio: 700/500;">
+                <img src="/images/about/Showroom.webp" alt="Showroom">
 
             </div>
 
